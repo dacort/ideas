@@ -2,7 +2,7 @@
 
 A repository of various ideas. #letsgetserious
 
-The canonical list of ideas lives in this [spreadsheet](https://docs.google.com/spreadsheets/d/1c3K0gINyt0ROCtUs0U_vtU1J3NbbkrOuaCCVCLYTidY/edit#gid=0).
+The canonical list of ideas lives on this [project board](https://github.com/dacort/ideas/projects/1).
 
 ## Tenets
 
